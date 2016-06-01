@@ -1,11 +1,11 @@
 " vimrc
 "
-" Created by InFog - Evaldo Junior <evaldojuniorbento@gmail.com>
+" Created by SiTec - Ricardo Sierra <sierra.csi@gmail.com>
 " Inspired by a lot of other vimrc files out there
 "
 " https://github.com/InFog/meuvim
 "
-" http://evaldojunior.com
+" http://ricardosierra.com.br
 
 set nocompatible
 filetype off
@@ -193,10 +193,10 @@ map <leader>t :Explore<CR>
 map <leader>T :split<CR> :Explore<CR>
 
 " Arrows? Nope. (If you want to have arrows just remove the lines below)
-nnoremap <up> <nop>
-nnoremap <down> <nop>
-nnoremap <left> <nop>
-nnoremap <right> <nop>
+" nnoremap <up> <nop>
+" nnoremap <down> <nop>
+" nnoremap <left> <nop>
+" nnoremap <right> <nop>
 inoremap <up> <nop>
 inoremap <down> <nop>
 inoremap <left> <nop>
